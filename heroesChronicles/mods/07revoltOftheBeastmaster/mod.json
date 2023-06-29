@@ -1,0 +1,28 @@
+{
+	"name" : "Revolt of the Beastmaster",
+	"description" : "Revolt of the Beastmaster",
+	"author" : "New World Computing. Port: avatar",
+	"version" : "1.01",
+	"modType" : "Expansion",	
+	"contact" : "",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},	
+	"changelog" :
+	{
+		"1.01"   : [ "Fixes" ],
+		"1.0"   : [ "Initial release" ]
+	},
+	"conflicts" :
+	[
+		"heroesChronicles.01warlordsOfTheWasteland",
+		"heroesChronicles.02conquestOfTheUnderworld",
+		"heroesChronicles.03mastersOfTheElements",
+		"heroesChronicles.04clashOfTheDragons",
+		"heroesChronicles.05theWorldTree",
+		"heroesChronicles.06theFieryMoon",
+		"heroesChronicles.08theSwordOfFrost",
+		"new-menu"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"name" : "Heroes Chronicles",
+	"description" : "All Heroes Chronicles campaigns in one mod. Each has its own skin. Enable only one submod at once.",
+	"author" : "New World Computing. Port: avatar",
+	"version" : "1.01",
+	"modType" : "Expansion",	
+	"contact" : "",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},	
+	"changelog" :
+	{
+		"1.01"   : [ "Fixes" ],
+		"1.0"   : [ "Initial release" ]
+	}
+}
